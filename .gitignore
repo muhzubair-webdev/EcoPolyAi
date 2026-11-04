@@ -6,3 +6,5 @@ out/
 dist/
 *.log
 SPEC.md
+
+.vercel
